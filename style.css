@@ -1,0 +1,17 @@
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 40px 30px 40px;
+}
+
+.texto-cabecalho{
+    font-weight: bold;
+    color: #da990e;
+    font-size: 30px;
+}
+
+nav li{
+    display: inline;
+}
