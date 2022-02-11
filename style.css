@@ -10,7 +10,8 @@
 .texto-cabecalho{
     font-weight: bold;
     color: #da990e;
-    font-size: 60px;
+    font-size: 45px;
+    cursor: default;
 }
 
 nav {
@@ -23,8 +24,31 @@ nav li{
     display: inline;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    color: #afa9a9;
+    color: #766F68;
     font-size: 25px;
     padding: 10px;
     cursor: pointer;
+}
+ .conteudo{
+    
+ }
+
+ .titulo-principal{
+    color: #766F68;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    
+ }
+
+ .titulo-secundario{
+    color: #766F68;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+ }
+
+.foto-time{
+    width: 850px;
+    height: 550px;
 }
