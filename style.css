@@ -29,24 +29,32 @@ nav li{
     padding: 10px;
     cursor: pointer;
 }
- .conteudo{
-    
- }
 
- .titulo-principal{
+
+.conteudo-principal{
+    display: flex;
+}
+
+.conteudo{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.titulo-principal{
     color: #766F68;
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
-    font-size: 60px;
+    font-size: 110px;
     
- }
+}
 
- .titulo-secundario{
+.titulo-secundario{
     color: #766F68;
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
-    font-size: 25px;
- }
+    font-size: 40px;
+    margin-top: 40px;
+}
 
 .foto-time{
     width: 850px;
