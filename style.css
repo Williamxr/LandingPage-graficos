@@ -58,6 +58,15 @@ nav li{
 
 .foto-time{
     width: 1000px;
-    height: 750px;
+    height: 650px;
     margin-top: 110px;
+}
+
+.botao{
+    font-weight: bolder;
+    font-size: 40px;
+    margin-top: 40px;
+    padding: 50px 100px;
+    border-radius: 30px;
+    width: 500px;
 }
