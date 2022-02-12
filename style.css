@@ -64,9 +64,16 @@ nav li{
 
 .botao{
     font-weight: bolder;
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 40px;
-    padding: 50px 100px;
+    padding: 30px 60px;
     border-radius: 30px;
-    width: 500px;
+    width: 400px;
+    color: #FFFFFF;
+    background-color: #D2872C;
+    border: none;
+}
+
+.botao:hover{
+    cursor: pointer;
 }
