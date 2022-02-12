@@ -38,25 +38,26 @@ nav li{
 .conteudo{
     margin-top: 150px;
     margin-left: 100px;
+    margin-right: 130px;
 }
 
 .titulo-principal{
     color: #766F68;
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
-    font-size: 110px;
+    font-size: 90px;
     
 }
 
 .titulo-secundario{
     color: #766F68;
-    font-weight: bold;
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
     margin-top: 40px;
 }
 
 .foto-time{
-    width: 850px;
-    height: 550px;
+    width: 1000px;
+    height: 750px;
+    margin-top: 110px;
 }
